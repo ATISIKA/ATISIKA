@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ATISIKA
 - 👀 I’m interested in ...cybersecurity
-- 🌱 I’m currently learning ..programming with c++.
+- 🌱 I’m currently a student of java, python, flutter .
 - 💞️ I’m looking to collaborate on project.
 - 📫 How to reach me ..(atisikakd@gmail.com)+233554460037.
 
