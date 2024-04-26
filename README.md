@@ -1,11 +1,19 @@
-## 👋 Hi, I’m @ATISIKA
-- 👀 I’m interested in ...cybersecurity
-- 🌱 I’m currently a student of java, python, flutter .
-- 💞️ I’m looking to collaborate on project.
-- 📫 How to reach me ..(atisikakd@gmail.com)+233554460037.
-- dkwadwo.ac@st.vvu.edu.gh
+👋 Hi there, I'm ATISIKA!
+🚀 About Me:
+👨‍💻 Skilled in Java, JavaScript, React, React Native, and MongoDB.
+🔭 Currently exploring the realms of cybersecurity and software development.
+🎓 Constantly learning and growing, with a passion for building innovative solutions.
+🌱 What I'm Working On:
+Sharpening my skills in Java and JavaScript development.
+Building exciting projects with React and React Native.
+Exploring the world of cybersecurity to enhance my knowledge.
+🤝 Get in Touch:
+📧 Email: atisikakd@gmail.com
+📱 Phone: +233554460037
+📚 daniel atisika
+💼 Portfolio
+💡 Fun Fact:
+I love to explore new technologies and enjoy coding challenges!
 
-<!---
-ATISIKA/ATISIKA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let's connect and collaborate on exciting projects together!
+
